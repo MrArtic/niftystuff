@@ -9,5 +9,7 @@ Eks:
 
 ```bash
 $ python ordnett.py no bil
+kjøretøy med motor
 $ python ordnett.py en car
+(subst.) bil, vogn, sporvogn, trikk, jernbanevogn
 ```
