@@ -1,6 +1,13 @@
-niftystuff
-==========
+#niftystuff
 
-A collection of nifty code
+En samling nifty kode
 
-1.	Ordnett
+##Ordnett i terminal
+Dersom du har tilgang til en terminal som ligger på en ip med Ordnett-lisens, kan denne være til nytte. Fortsatt veldig røff i kantene.
+
+Eks:
+
+```bash
+$ python ordnett.py no bil
+$ python ordnett.py en car
+```
